@@ -16,7 +16,7 @@ This example utilises vite for static site generation
 - Vite
 - React
 
-## 💁‍♀️ How to use
+## 💁‍♀️ How to use me
 
 - Install dependencies `yarn`
 - Connect to your Railway project `railway link`
